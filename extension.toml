@@ -1,0 +1,11 @@
+id = "htmx"
+name = "htmx"
+description = "Htmx support."
+version = "0.1.0"
+schema_version = 1
+authors = ["Raunak Raj <bajrangcoders@gmail.com>"]
+repository = "https://github.com/bajrangCoder/zed-htmx"
+
+[language_servers.htmx-lsp]
+name = "htmx-lsp"
+language = "HTML"
